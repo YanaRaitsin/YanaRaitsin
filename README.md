@@ -1,2 +1,2 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" /> Hi, I’m Yana <\ br>
+<h1 align="center">Hi, I’m Yana</h1>  <\ br>
 I'm a software engineering student
