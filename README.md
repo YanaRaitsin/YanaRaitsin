@@ -10,7 +10,7 @@
        <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/c.png" width="30px" />
        <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/ubuntu.png" width="30px" />
        <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/mysql.png" width="30px" />
-       <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/vstudio.png" width="30px" />
+       <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/vstudio.png" width="50px" />
        <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/python.png" width="30px" />
        <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/java.png" width="30px" />
        <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/vscode.png" width="30px" />
