@@ -15,6 +15,16 @@
        <div><a><img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/vscode.png" width="30px"> </div>
 </div>
 
-
+<div style="width:830px; background-color:white; height:120px; overflow:auto;">
+		<div style="width: 30px">
+       <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/c.png" width="30px" />
+       <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/ubuntu.png" width="30px" />
+       <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/mysql.png" width="30px" />
+       <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/vstudio.png" width="30px" />
+       <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/python.png" width="30px" />
+       <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/java.png" width="30px" />
+       <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/vscode.png" width="30px" />
+		</div>
+	</div>
 
 
