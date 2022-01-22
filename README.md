@@ -4,7 +4,7 @@
 :earth_americas: I'm from Haifa. Israel <br />
 :computer: You can find me on <a href="https://www.linkedin.com/in/yana-raitsin/" rel="nofollow"><img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/linkedin.png" alt="LinkedIn" title="LinkedIn icon without padding" style="max-width: 100%;"></a> <br />
 
-<h1 align="left">🖥️Technologies & Tools 🖥️</h1>
+<h1 align="left">🖥️ Technologies & Tools 🖥️</h1>
 <div style="width:830px; background-color:white; height:120px; overflow:auto;">
 		<div style="width: 30px">
        <img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/c.png" width="30px" />
