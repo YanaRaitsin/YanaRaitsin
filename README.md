@@ -12,7 +12,7 @@
        <div><a><img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/vstudio.png" width="30px"></div>
        <div><a><img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/python.png" width="30px"></a></div>
        <div><a><img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/java.png" width="30px"></div>
-       <div><a><img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/vscode.png" width="30px"> /div>
+       <div><a><img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/vscode.png" width="30px"> </div>
 </div>
 
 
