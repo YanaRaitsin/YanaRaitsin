@@ -18,7 +18,7 @@ You can find me on <a href="https://www.linkedin.com/in/yana-raitsin/" rel="nofo
 	<img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/eclipse.png" width="30px" />
 	<img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/Csharp.png" width="30px" />
 	<img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/git.png" width="30px" />
-	<img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/blazor[](url).png" width="30px" />
+	<img src="https://github.com/YanaRaitsin/YanaRaitsin/blob/main/blazor.png" width="30px" />
 		</div>
 	</div>
 
